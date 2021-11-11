@@ -5,7 +5,7 @@ date:   2021-11-02 13:01:30 +0100
 categories: guia SGE
 ---
 
-
+SGE
 
 U1. Identificación de sistemas ERP-CRM
 Haremos una introducción a los sistemas ERP y CRM, veremos la arquitectura de algunos de ellos (Openbravo y Odoo) y prepararemos el sistema para la instalación  de odoo
