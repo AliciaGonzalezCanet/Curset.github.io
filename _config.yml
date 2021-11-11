@@ -3,7 +3,7 @@ title: Sistemes de gestió empresarial
 email: agonzalez@ieseljust.com
 description: >- # this means to ignore newlines until "baseurl:"
   Pàgina web per a l'assignatura de sistemes de gestió empresarial, on instal·larem i configurarem odoo
-baseurl: "/Curset.github.io" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 #url: "https://github.com/AliciaGonzalezCanet/Curset.github.io.git" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
